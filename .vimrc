@@ -9,8 +9,8 @@ set encoding=UTF-8
 set showmatch
 set sw=2
 set relativenumber
-set laststatus=2
 set cursorline
+set laststatus=2
 
 "Autocompletar parentisis, llaves, corchetes, etc
 inoremap ( ()<Esc>i
